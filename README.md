@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **MERN Stack & Java Full Stack**
 
-- 👨‍💻 All of my projects are available at [https://paramesh-kumar-2004.github.io/VP_Portfolio_2/](https://paramesh-kumar-2004.github.io/VP_Portfolio_2/)
+- 👨‍💻 All of my projects are available at [https://github.com/Paramesh-Kumar-2004](https://github.com/Paramesh-Kumar-2004)
 
 - 💬 Ask me about **Python, Flask, Javascript, React Js, Node Js, Express Js, Java, SpringBoot, HTML, CSS, Docker, Selenium With Python**
 
 - 📫 How to reach me **svpparameshkumar2004@gmail.com**
 
-- 📄 Know about my experiences [https://paramesh-kumar-2004.github.io/VP_Portfolio_2/static/media/VP_Resume.c4520d9cc65103bb7060.pdf](https://paramesh-kumar-2004.github.io/VP_Portfolio_2/static/media/VP_Resume.c4520d9cc65103bb7060.pdf)
+- 📄 Know about my experiences [https://github.com/Paramesh-Kumar-2004](https://github.com/Paramesh-Kumar-2004)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
