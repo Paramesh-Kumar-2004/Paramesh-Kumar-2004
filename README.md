@@ -49,7 +49,7 @@
   <!-- Node.js -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" style="margin: 24px;"/>
   
-  <!-- Express.js (white background for visibility) -->
+  <!-- Express.js -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50" height="50" style="margin: 24px;"/>
   
   <!-- MongoDB -->
@@ -79,8 +79,9 @@
   <!-- Git -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" style="margin: 24px;"/>
   
-  <!-- GitHub (white background) -->
+  <!-- GitHub -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50" style="margin: 24px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50" style="margin: 24px; color:red; background-color:white"/>
   
   <!-- Selenium -->
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="50" height="50" style="margin: 24px;"/>
