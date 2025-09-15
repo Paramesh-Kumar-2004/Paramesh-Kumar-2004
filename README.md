@@ -3,12 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Paramesh-Kumar-2004&label=Profile%20views&color=0e75b6&style=flat" alt="Paramesh-Kumar-2004" /> </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Paramesh-Kumar-2004" alt="Paramesh-Kumar-2004" /></a> </p> -->
-<p align="left"> 
+<!-- <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Paramesh-Kumar-2004&title=Commit,Repositories,Experience,Followers" alt="Paramesh-Kumar-2004" />
+  </a>
+</p> -->
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Paramesh-Kumar-2004&title=Commit,Repositories,Experience,Followers&margin-w=15" alt="Paramesh-Kumar-2004" />
   </a> 
 </p>
+
 - 🌱 I’m currently learning **MERN Stack & Java Full Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Paramesh-Kumar-2004](https://github.com/Paramesh-Kumar-2004)
