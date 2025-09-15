@@ -10,7 +10,7 @@
 </p> -->
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Paramesh-Kumar-2004&title=Commit,Repositories,Experience,Followers&margin-w=15" alt="Paramesh-Kumar-2004" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Paramesh-Kumar-2004&title=Commit,Repositories,Experience,Followers&margin-w=24" alt="Paramesh-Kumar-2004" />
   </a> 
 </p>
 
