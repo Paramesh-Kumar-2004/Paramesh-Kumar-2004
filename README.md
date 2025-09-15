@@ -46,7 +46,7 @@
 <!-- GitHub Trophies -->
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
 <p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=Paramesh-Kumar-2004&theme=algolia&no-frame=true&no-bg=true&margin-w=20&margin-h=15&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Paramesh-Kumar-2004&theme=monokai&no-frame=true&no-bg=true&margin-w=20&margin-h=15&column=4" />
 </p>
 
 ---
