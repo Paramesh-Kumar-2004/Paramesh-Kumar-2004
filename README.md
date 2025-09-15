@@ -47,8 +47,8 @@
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Paramesh-Kumar-2004&show_icons=true&theme=dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paramesh-Kumar-2004&theme=dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Paramesh-Kumar-2004&show_icons=true&theme=onedark&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paramesh-Kumar-2004&theme=onedark&hide_border=true" height="150"/>
 </p>
 
 ---
@@ -56,13 +56,13 @@
 <!-- Top Languages -->
 <h2 align="center">💡 Top Languages</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paramesh-Kumar-2004&layout=compact&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paramesh-Kumar-2004&layout=compact&theme=dark&hide_border=true" height="150"/>
 </p>
 
 <!-- Social Links -->
 <h2 align="center">🌐 Connect with Me</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/paramesh-kumar-s-047632249/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
   <a href="https://github.com/Paramesh-Kumar-2004" target="_blank"><img src="https://img.shields.io/badge/-GitHub-black?logo=github&style=for-the-badge" /></a>
-  <a href="mailto:yourmail@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&style=for-the-badge" /></a>
+  <a href="mailto:svpparameshkumar2004@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&style=for-the-badge" /></a>
 </p>
