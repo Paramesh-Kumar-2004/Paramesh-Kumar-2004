@@ -66,16 +66,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paramesh-Kumar-2004&layout=compact&theme=algolia&hide_border=true" height="150"/>
 </p>
 
----
-
-<!-- Snake Animation -->
-<h2 align="center">🐍 Contribution Snake 🐍</h2>
-<p align="center">
-  <img src="https://github.com/Paramesh-Kumar-2004/Paramesh-Kumar-2004/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 <!-- Social Links -->
 <h2 align="center">🌐 Connect with Me</h2>
 <p align="center">
