@@ -50,7 +50,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" style="margin: 24px;"/>
   
   <!-- Express.js (with white background for visibility) -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50" height="50" style="margin: 24px; background-color: white; border-radius: 8px; padding: 4px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50" height="50" style="margin: 24px; background-color: lightgreen; border-radius: 8px; padding: 4px;"/>
   
   <!-- MongoDB -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50" style="margin: 24px;"/>
