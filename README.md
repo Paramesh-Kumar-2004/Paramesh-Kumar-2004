@@ -21,8 +21,8 @@
 
 ### 🛠️ Languages & Tools
 
-<p align="center">
-<!-- Python -->
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <!-- Python -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" style="margin: 24px;"/>
   
   <!-- HTML -->
@@ -30,13 +30,13 @@
   
   <!-- CSS -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50" style="margin: 24px;"/>
-
+  
   <!-- JavaScript -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" style="margin: 24px;"/>
-
+  
   <!-- Tailwind -->
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50" style="margin: 24px;"/>
- 
+  
   <!-- Bootstrap -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="50" height="50" style="margin: 24px;"/>
   
@@ -49,10 +49,9 @@
   <!-- Node.js -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" style="margin: 24px;"/>
   
-  <!-- Express.js (with white background for visibility) -->
-  <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50" height="50" style="margin: 24px; background-color: lightgreen; border-radius: 8px; padding: 4px;"/> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" style="margin: 24px;background-color: skyblue;"/>
-
+  <!-- Express.js (white background for visibility) -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50" height="50" style="margin: 24px;"/>
+  
   <!-- MongoDB -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50" style="margin: 24px;"/>
   
@@ -80,12 +79,11 @@
   <!-- Git -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" style="margin: 24px;"/>
   
-  <!-- GitHub -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50" style="margin: 24px; background-color: white; border-radius: 8px; padding: 4px;"/>
+  <!-- GitHub (white background) -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50" style="margin: 24px;"/>
   
   <!-- Selenium -->
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="50" height="50" style="margin: 24px;"/>
-
 </p>
 
 ---
