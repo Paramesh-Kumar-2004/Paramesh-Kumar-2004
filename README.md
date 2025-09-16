@@ -80,7 +80,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" style="margin: 24px;"/>
   
   <!-- GitHub -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50" style="margin: 24px;background-color:white"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50" style="margin: 24px;"/>
   
   <!-- Selenium -->
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="50" height="50" style="margin: 24px;"/>
@@ -106,7 +106,9 @@
 <!-- Social Links -->
 <h2 align="center">🌐 Connect with Me</h2>
 <p align="center">
+  <span> <b>Email :</b> svpparameshkumar2004@gmail.com </span> 
+  <br/><br/>
   <a href="https://www.linkedin.com/in/paramesh-kumar-s-047632249/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
   <a href="https://github.com/Paramesh-Kumar-2004" target="_blank"><img src="https://img.shields.io/badge/-GitHub-black?logo=github&style=for-the-badge" /></a>
-  <a href="mailto:svpparameshkumar2004@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&style=for-the-badge" /></a>
+  <!-- <a href="mailto:svpparameshkumar2004@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&style=for-the-badge" /></a> -->
 </p>
