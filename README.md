@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=paramesh-kumar-2004&label=Profile%20views&color=20a7db&style=flat" alt="paramesh-kumar-2004" /> </p>
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Paramesh Kumar</h1>
 <h3 align="center">🚀 Full Stack Developer | 💻 Automation Tester | 🎯 Lifelong Learner</h3>
@@ -37,9 +38,6 @@
   <!-- Tailwind -->
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50" style="margin: 24px;"/>
   
-  <!-- Bootstrap -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="50" height="50" style="margin: 24px;"/>
-  
   <!-- React -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" style="margin: 24px;"/>
   
@@ -50,7 +48,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" style="margin: 24px;"/>
   
   <!-- Express.js -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50" height="50" style="margin: 24px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50" height="50" style="margin: 24px;background-color:#0BF442"/>
   
   <!-- MongoDB -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50" style="margin: 24px;"/>
@@ -110,5 +108,6 @@
   <br/><br/>
   <a href="https://www.linkedin.com/in/paramesh-kumar-s-047632249/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
   <a href="https://github.com/Paramesh-Kumar-2004" target="_blank"><img src="https://img.shields.io/badge/-GitHub-black?logo=github&style=for-the-badge" /></a>
+
   <!-- <a href="mailto:svpparameshkumar2004@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&style=for-the-badge" /></a> -->
 </p>
