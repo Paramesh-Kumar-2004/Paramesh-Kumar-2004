@@ -22,7 +22,7 @@
 
 ### 🛠️ Languages & Tools
 
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
   <!-- Python -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" style="margin: 24px;"/>
   
@@ -82,7 +82,7 @@
   
   <!-- Selenium -->
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="50" height="50" style="margin: 24px;"/>
-</p>
+</div>
 
 ---
 
